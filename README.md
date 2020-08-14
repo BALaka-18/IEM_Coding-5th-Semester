@@ -11,3 +11,21 @@ At the beginning both the vessels are empty. The following operations are counte
 2. Filling a vessel completely
 3. Pouring water from one vessel to the other, without spilling, until one of the vessels is either full or empty.
 ___________________________________________________________________________________________________________________________________________________________________________________
+
+DAY 2 : Bit Pairs
+
+Given N three-digit numbers, your task is to find the bit score of all N numbers and then print the number of pairs possible based on these calculated bit scores.
+
+1. Rule for calculating bit score from three digit number:
+From the 3-digit number,
+extract largest digit and multiply by 11 then
+extract smallest digit multiply by 7 then
+add both the result for getting bit pairs.
+Note: - Bit score should be of 2-digits, if above results in a 3-digit bit score, simply ignore most significant digit.
+
+2. Rules for making pairs from above calculated bit scores
+Condition for making pairs are
+Both bit scores should be in either odd position or even position to be eligible to form a pair.
+Pairs can be only made if most significant digits are the same and at most two pairs can be made for a given significant digit.
+___________________________________________________________________________________________________________________________________________________________________________________
+
