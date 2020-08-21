@@ -33,7 +33,7 @@ DAY 3 : Strings and length counts
 
 Q.1. Given a string of words separated by spaces. The task is to find the first maximum length, even word, from the string. Eg: “You are given an array of n numbers” The answer would be “an” and not “of” because “an” comes before “of”.
 
-(a) Now modify your code to display n th even length word (where n is given as input). 
+(a) Now modify your code to display n th even length word (where n is given as user input). 
 
 (b) Modify your code to find the m th maximum length word.
 
