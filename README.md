@@ -10,7 +10,7 @@ At the beginning both the vessels are empty. The following operations are counte
 1. Emptying a vessel
 2. Filling a vessel completely
 3. Pouring water from one vessel to the other, without spilling, until one of the vessels is either full or empty.
-___________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 
 DAY 2 : Bit Pairs
 
@@ -27,5 +27,15 @@ Note: - Bit score should be of 2-digits, if above results in a 3-digit bit score
 Condition for making pairs are
 Both bit scores should be in either odd position or even position to be eligible to form a pair.
 Pairs can be only made if most significant digits are the same and at most two pairs can be made for a given significant digit.
-___________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
+
+DAY 3 : Strings and length counts
+
+Q.1. Given a string of words separated by spaces. The task is to find the first maximum length, even word, from the string. Eg: “You are given an array of n numbers” The answer would be “an” and not “of” because “an” comes before “of”.
+
+(a) Now modify your code to display n th even length word (where n is given as input). 
+
+(b) Modify your code to find the m th maximum length word.
+
+________________________________________________________________________________________________________________________________________________________________________________
 
